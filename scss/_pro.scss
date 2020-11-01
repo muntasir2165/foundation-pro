@@ -67,3 +67,19 @@
     color: white;
   }
 }
+
+.projects-container {
+  width: 100%;
+  margin-top: 150px;
+
+  .image-container {
+  }
+
+  .project-info {
+    margin-top: 10px;
+    padding-left: 50px;
+    p {
+      padding-right: 50px;
+    }
+  }
+}
