@@ -83,3 +83,25 @@
     }
   }
 }
+
+.client-container {
+  .client-image {
+    text-align: center;
+    margin-top: 150px;
+
+    img {
+      width: 200px;
+      height: 200px;
+    }
+  }
+
+  .client-name {
+    text-align: center;
+  }
+
+  .client-comment {
+    text-align: center;
+    font-style: italic;
+    font-size: 1.5em;
+  }
+}
